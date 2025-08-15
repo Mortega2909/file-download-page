@@ -137,9 +137,9 @@
   <priority>0.80</priority>
 </url>
 
-<!-- Added GitHub Pages link -->
+<!-- GitHub Pages landing page added for Google Drive file -->
 <url>
-  <loc>https://Mortega2909.github.io/file-download-page/</loc>
+  <loc>https://yourusername.github.io/file-download-page/</loc>
   <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
