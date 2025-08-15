@@ -1,19 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="description" content="Download the Ortega's Party Rentals file directly from Google Drive." />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ortega's Party Rentals – File Download</title>
-</head>
-<body>
-  <h1>Ortega's Party Rentals – File Download</h1>
-  <p>Click the link below to download our file directly from Google Drive:</p>
-  <p>
-    <a href="https://drive.google.com/uc?export=download&id=1eFxgPlG8BMC6GUlFQayB6hKd7BCsvCPL"
-       target="_blank" rel="noopener">
-       📥 Download File
-    </a>
-  </p>
-</body>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Download the Ortega's Party Rentals file directly from Google Drive." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ortega's Party Rentals – File Download</title>
+  </head>
+  <body>
+    <h1>Ortega's Party Rentals – File Download</h1>
+    <p>Click the link below to download our file directly from Google Drive:</p>
+    <p>
+      <a href="https://drive.google.com/uc?export=download&id=1eFxgPlG8BMC6GUlFQayB6hKd7BCsvCPL"
+         target="_blank" rel="noopener">
+         📥 Download File
+      </a>
+    </p>
+  </body>
 </html>
